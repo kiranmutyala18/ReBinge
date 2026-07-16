@@ -1,4 +1,4 @@
-# ReRush — Semantic Episode Recommender
+# ReBinge — Semantic Episode Recommender
 
 Find sitcom episodes by describing what you remember about them.
 
